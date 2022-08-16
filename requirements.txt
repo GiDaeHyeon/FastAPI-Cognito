@@ -1,0 +1,6 @@
+fastapi
+uvicorn[Standard]
+requests
+boto3
+python-jose
+pydantic
